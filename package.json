@@ -1,0 +1,23 @@
+{
+  "name": "nodechat",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MehakCoder/chat-application#readme",
+  "bugs": {
+    "url": "https://github.com/MehakCoder/chat-application/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MehakCoder/chat-application.git"
+  },
+  "license": "ISC",
+  "author": "Mehak Chopra",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
